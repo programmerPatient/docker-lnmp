@@ -48,6 +48,7 @@
 --- --- nginx | nginx配置及安装文件
 --- --- php56 | php5.6.32配置及安装文件
 --- --- php72 | php7.2配置及安装文件
+--- --- php74 | php7.4配置及安装文件
 --- --- redis | redis配置及安装文件
 --- --- docker-composer.yml | docker配置执行文件
 
